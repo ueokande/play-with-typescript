@@ -1,0 +1,14 @@
+{
+  "name": "play-with-typescript",
+  "version": "1.0.0",
+  "description": "Play with TypeScript",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Shin'ya Ueoka",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.0.1",
+    "typescript": "^3.4.5"
+  }
+}
